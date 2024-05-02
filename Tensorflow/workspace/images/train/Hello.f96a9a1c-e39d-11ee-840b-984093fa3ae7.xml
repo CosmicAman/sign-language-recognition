@@ -1,0 +1,38 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Hello.f96a9a1c-e39d-11ee-840b-984093fa3ae7.jpg</filename>
+	<path>C:\Users\aman7\OneDrive\Desktop\UEM Project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Hello.f96a9a1c-e39d-11ee-840b-984093fa3ae7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>127</ymin>
+			<xmax>503</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>208</ymin>
+			<xmax>241</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>
